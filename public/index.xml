@@ -6,10 +6,22 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>The Watchmen - Monster Hunters</title>
+    <link>https://quartz.jzhao.xyz/Characters/Factions/The-Watchmen---Monster-Hunters</link>
+    <guid>https://quartz.jzhao.xyz/Characters/Factions/The-Watchmen---Monster-Hunters</guid>
+    <description>The Watchmen is a group of trained monster hunters. Specializing in vampires, ghosts, werewolves, and other unnatural creatures though they do fight monstrosities and beasts of all sorts.</description>
+    <pubDate>Tue, 11 Jun 2024 20:47:23 GMT</pubDate>
+  </item><item>
+    <title>Societas Magica Historica - Mage Scholars</title>
+    <link>https://quartz.jzhao.xyz/Characters/Factions/Societas-Magica-Historica---Mage-Scholars</link>
+    <guid>https://quartz.jzhao.xyz/Characters/Factions/Societas-Magica-Historica---Mage-Scholars</guid>
+    <description>A group of historians and magic users hoping to discover lost magics. They maintain libraries and research groups all over, but are particularly interested in the academy that has been recently opened.</description>
+    <pubDate>Tue, 11 Jun 2024 20:46:08 GMT</pubDate>
+  </item><item>
     <title>Plousies Skies - Thieves Guild</title>
     <link>https://quartz.jzhao.xyz/Characters/Factions/Plousies-Skies---Thieves-Guild</link>
     <guid>https://quartz.jzhao.xyz/Characters/Factions/Plousies-Skies---Thieves-Guild</guid>
-    <description>![[Content/Characters/Factions/private/Plousies Skies - Thieves Guild|Plousies Skies - Thieves Guild#^public-information]].</description>
+    <description>Sometimes working under the pseudonym “Plush Skies”, the thieves guild helps connect thieves and burglars with each other and with fences. They have branches in most major cities and enforce an honor among thieves mindset.</description>
     <pubDate>Tue, 11 Jun 2024 20:17:21 GMT</pubDate>
   </item><item>
     <title>Region Map</title>
@@ -24,16 +36,16 @@
     <description>Hello and welcome to my open table server. We will be playing with some slightly modified 5e D&amp;D rules. Here are the basic rules for both the server in general as well as for playing with others.</description>
     <pubDate>Tue, 11 Jun 2024 18:19:59 GMT</pubDate>
   </item><item>
-    <title>Societas Magica Historica - Mage Scholars</title>
-    <link>https://quartz.jzhao.xyz/Characters/Factions/private/Societas-Magica-Historica---Mage-Scholars</link>
-    <guid>https://quartz.jzhao.xyz/Characters/Factions/private/Societas-Magica-Historica---Mage-Scholars</guid>
-    <description>A group of historians and magic users hoping to discover lost magics. They maintain libraries and research groups all over, but are particularly interested in the academy that has been recently opened.</description>
+    <title>Societas Magica Historica - Mage Scholars DM</title>
+    <link>https://quartz.jzhao.xyz/Characters/Factions/private/Societas-Magica-Historica---Mage-Scholars-DM</link>
+    <guid>https://quartz.jzhao.xyz/Characters/Factions/private/Societas-Magica-Historica---Mage-Scholars-DM</guid>
+    <description>Transclude of Societas-Magica-Historica---Mage-Scholars Long Term Goal Vague - Discover new and old spells Medium Term - Gain information from the recently opened up Ancient ...</description>
     <pubDate>Tue, 11 Jun 2024 18:18:11 GMT</pubDate>
   </item><item>
-    <title>Plousies Skies - Thieves Guild</title>
-    <link>https://quartz.jzhao.xyz/Characters/Factions/private/Plousies-Skies---Thieves-Guild</link>
-    <guid>https://quartz.jzhao.xyz/Characters/Factions/private/Plousies-Skies---Thieves-Guild</guid>
-    <description>“Sometimes working under the pseudonym “Plush Skies”, the thieves guild helps connect thieves and burglars with each other and with fences. They have branches in most major cities and enforce an honor among thieves mindset.</description>
+    <title>Plousies Skies - Thieves Guild DM</title>
+    <link>https://quartz.jzhao.xyz/Characters/Factions/private/Plousies-Skies---Thieves-Guild-DM</link>
+    <guid>https://quartz.jzhao.xyz/Characters/Factions/private/Plousies-Skies---Thieves-Guild-DM</guid>
+    <description>Public Information Plousies-Skies---Thieves-Guild Goals: Long Term Vague - Make money via guild fees Long Term - Expand influence and safety through bribes and elevating politicians ...</description>
     <pubDate>Tue, 11 Jun 2024 18:18:11 GMT</pubDate>
   </item><item>
     <title>Orcs</title>
@@ -52,18 +64,6 @@
     <link>https://quartz.jzhao.xyz/Lore-of-the-Local-Peoples/Goblins</link>
     <guid>https://quartz.jzhao.xyz/Lore-of-the-Local-Peoples/Goblins</guid>
     <description>Goblins of this region often view gold as akin to divinity, to be used primarily in worship. Some goblins are happy maintain the gold they already have while others see it as their duty to “reclaim” all gold for their faith.</description>
-    <pubDate>Tue, 11 Jun 2024 18:18:11 GMT</pubDate>
-  </item><item>
-    <title>Elves</title>
-    <link>https://quartz.jzhao.xyz/Lore-of-the-Local-Peoples/Elves</link>
-    <guid>https://quartz.jzhao.xyz/Lore-of-the-Local-Peoples/Elves</guid>
-    <description>Have long maintained some minor magical prowess, which has left many to be suspicious of them.</description>
-    <pubDate>Tue, 11 Jun 2024 18:18:11 GMT</pubDate>
-  </item><item>
-    <title>Dragonborn</title>
-    <link>https://quartz.jzhao.xyz/Lore-of-the-Local-Peoples/Dragonborn</link>
-    <guid>https://quartz.jzhao.xyz/Lore-of-the-Local-Peoples/Dragonborn</guid>
-    <description>Believe themselves to be descendants of dragons, or at least cousins .</description>
     <pubDate>Tue, 11 Jun 2024 18:18:11 GMT</pubDate>
   </item>
     </channel>

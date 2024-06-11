@@ -1,0 +1,1 @@
+A group of historians and magic users hoping to discover lost magics. They maintain libraries and research groups all over, but are particularly interested in the academy that has been recently opened.

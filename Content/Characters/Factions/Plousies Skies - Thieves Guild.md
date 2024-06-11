@@ -1,3 +1,1 @@
-![[Content/Characters/Factions/private/Plousies Skies - Thieves Guild|Plousies Skies - Thieves Guild#^public-information]]
-
-  
+Sometimes working under the pseudonym “Plush Skies”, the thieves guild helps connect thieves and burglars with each other and with fences. They have branches in most major cities and enforce an honor among thieves mindset. They are generally anti-violence so crimes that begin loud and result in major loss of life can get members banned, shunned, or otherwise punished. ^public-information

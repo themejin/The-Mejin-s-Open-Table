@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Welcome to my Open Table!
 cssclasses: 
 tags:
 ---

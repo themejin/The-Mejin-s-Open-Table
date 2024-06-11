@@ -12,12 +12,6 @@
     <description></description>
     <pubDate>Tue, 11 Jun 2024 19:42:02 GMT</pubDate>
   </item><item>
-    <title>Updating the site</title>
-    <link>https://quartz.jzhao.xyz/Private/Updating-the-site</link>
-    <guid>https://quartz.jzhao.xyz/Private/Updating-the-site</guid>
-    <description>open cmd as admin and input one line at a time: d: cd D:\Mejinzs\Documents\DnD Worlds\Open Table npx quartz build npx quartz sync --build git push `.</description>
-    <pubDate>Tue, 11 Jun 2024 19:24:52 GMT</pubDate>
-  </item><item>
     <title>Welcome</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
@@ -64,6 +58,12 @@
     <link>https://quartz.jzhao.xyz/Lore-of-the-Local-Peoples/Humans</link>
     <guid>https://quartz.jzhao.xyz/Lore-of-the-Local-Peoples/Humans</guid>
     <description>The most common, making up about 50% of the area. They come from diverse backgrounds and cultures. In the Ausfallen region humans, like many others, are trying to establish themselves.</description>
+    <pubDate>Tue, 11 Jun 2024 18:18:11 GMT</pubDate>
+  </item><item>
+    <title>Goblins</title>
+    <link>https://quartz.jzhao.xyz/Lore-of-the-Local-Peoples/Goblins</link>
+    <guid>https://quartz.jzhao.xyz/Lore-of-the-Local-Peoples/Goblins</guid>
+    <description>Goblins of this region often view gold as akin to divinity, to be used primarily in worship. Some goblins are happy maintain the gold they already have while others see it as their duty to “reclaim” all gold for their faith.</description>
     <pubDate>Tue, 11 Jun 2024 18:18:11 GMT</pubDate>
   </item>
     </channel>

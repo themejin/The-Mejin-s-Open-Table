@@ -1,2 +1,3 @@
 A map of the local region
-![[World of Academia.png]]
+
+![[public/World-of-Academia.png | 900]]

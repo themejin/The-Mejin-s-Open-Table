@@ -6,10 +6,16 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Plousies Skies - Thieves Guild</title>
+    <link>https://quartz.jzhao.xyz/Characters/Factions/Plousies-Skies---Thieves-Guild</link>
+    <guid>https://quartz.jzhao.xyz/Characters/Factions/Plousies-Skies---Thieves-Guild</guid>
+    <description>Sometimes working under the pseudonym “Plush Skies”, the thieves guild helps connect thieves and burglars with each other and with fences. They have branches in most major cities and enforce an honor among thieves mindset.</description>
+    <pubDate>Tue, 11 Jun 2024 20:17:21 GMT</pubDate>
+  </item><item>
     <title>Region Map</title>
     <link>https://quartz.jzhao.xyz/Locations/Region-Map</link>
     <guid>https://quartz.jzhao.xyz/Locations/Region-Map</guid>
-    <description></description>
+    <description>A map of the local region .</description>
     <pubDate>Tue, 11 Jun 2024 19:42:02 GMT</pubDate>
   </item><item>
     <title>Welcome</title>
@@ -19,33 +25,15 @@
     <pubDate>Tue, 11 Jun 2024 18:19:59 GMT</pubDate>
   </item><item>
     <title>Societas Magica Historica - Mage Scholars</title>
-    <link>https://quartz.jzhao.xyz/Characters/Factions/Societas-Magica-Historica---Mage-Scholars</link>
-    <guid>https://quartz.jzhao.xyz/Characters/Factions/Societas-Magica-Historica---Mage-Scholars</guid>
+    <link>https://quartz.jzhao.xyz/Characters/Factions/private/Societas-Magica-Historica---Mage-Scholars</link>
+    <guid>https://quartz.jzhao.xyz/Characters/Factions/private/Societas-Magica-Historica---Mage-Scholars</guid>
     <description>A group of historians and magic users hoping to discover lost magics. They maintain libraries and research groups all over, but are particularly interested in the academy that has been recently opened.</description>
     <pubDate>Tue, 11 Jun 2024 18:18:11 GMT</pubDate>
   </item><item>
     <title>Plousies Skies - Thieves Guild</title>
-    <link>https://quartz.jzhao.xyz/Characters/Factions/Plousies-Skies---Thieves-Guild</link>
-    <guid>https://quartz.jzhao.xyz/Characters/Factions/Plousies-Skies---Thieves-Guild</guid>
+    <link>https://quartz.jzhao.xyz/Characters/Factions/private/Plousies-Skies---Thieves-Guild</link>
+    <guid>https://quartz.jzhao.xyz/Characters/Factions/private/Plousies-Skies---Thieves-Guild</guid>
     <description>Sometimes working under the pseudonym “Plush Skies”, the thieves guild helps connect thieves and burglars with each other and with fences. They have branches in most major cities and enforce an honor among thieves mindset.</description>
-    <pubDate>Tue, 11 Jun 2024 18:18:11 GMT</pubDate>
-  </item><item>
-    <title>World Building Guide</title>
-    <link>https://quartz.jzhao.xyz/World-Building-Guide</link>
-    <guid>https://quartz.jzhao.xyz/World-Building-Guide</guid>
-    <description>Ancient Languages: German as the language of old academia World Name: Ausfallen Races: Humans: The most common, making up about 50% of the area Elves: Have long maintained some minor ...</description>
-    <pubDate>Tue, 11 Jun 2024 18:18:11 GMT</pubDate>
-  </item><item>
-    <title>Intro for New Players</title>
-    <link>https://quartz.jzhao.xyz/Intro-for-New-Players</link>
-    <guid>https://quartz.jzhao.xyz/Intro-for-New-Players</guid>
-    <description></description>
-    <pubDate>Tue, 11 Jun 2024 18:18:11 GMT</pubDate>
-  </item><item>
-    <title>Regional Map Template</title>
-    <link>https://quartz.jzhao.xyz/Templates/Regional-Map-Template</link>
-    <guid>https://quartz.jzhao.xyz/Templates/Regional-Map-Template</guid>
-    <description>### Tutorial: [youtu.be/54EyMzJP5DU](youtu.be/54EyMzJP5DU) ### id must be unique id: Faerun_Map ### Lock pins so they can&#039;t be moved lock: true ### If true, view of map will ...</description>
     <pubDate>Tue, 11 Jun 2024 18:18:11 GMT</pubDate>
   </item><item>
     <title>Orcs</title>
@@ -64,6 +52,18 @@
     <link>https://quartz.jzhao.xyz/Lore-of-the-Local-Peoples/Goblins</link>
     <guid>https://quartz.jzhao.xyz/Lore-of-the-Local-Peoples/Goblins</guid>
     <description>Goblins of this region often view gold as akin to divinity, to be used primarily in worship. Some goblins are happy maintain the gold they already have while others see it as their duty to “reclaim” all gold for their faith.</description>
+    <pubDate>Tue, 11 Jun 2024 18:18:11 GMT</pubDate>
+  </item><item>
+    <title>Elves</title>
+    <link>https://quartz.jzhao.xyz/Lore-of-the-Local-Peoples/Elves</link>
+    <guid>https://quartz.jzhao.xyz/Lore-of-the-Local-Peoples/Elves</guid>
+    <description>Have long maintained some minor magical prowess, which has left many to be suspicious of them.</description>
+    <pubDate>Tue, 11 Jun 2024 18:18:11 GMT</pubDate>
+  </item><item>
+    <title>Dragonborn</title>
+    <link>https://quartz.jzhao.xyz/Lore-of-the-Local-Peoples/Dragonborn</link>
+    <guid>https://quartz.jzhao.xyz/Lore-of-the-Local-Peoples/Dragonborn</guid>
+    <description>Believe themselves to be descendants of dragons, or at least cousins .</description>
     <pubDate>Tue, 11 Jun 2024 18:18:11 GMT</pubDate>
   </item>
     </channel>

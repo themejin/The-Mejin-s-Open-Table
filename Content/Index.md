@@ -3,4 +3,4 @@ title: Welcome
 cssclasses: 
 tags:
 ---
-test test
+Welcome to the site. Find information you need here

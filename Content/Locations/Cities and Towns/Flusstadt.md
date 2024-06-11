@@ -1,0 +1,1 @@
+The starting town for our adventures. With the researchers opening up the gates of "The Academy" recently 

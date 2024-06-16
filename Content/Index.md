@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-Hello and welcome to my open table server. We will be playing with some slightly modified 5e D&D rules. Here are the basic rules for both the server in general as well as for playing with others.
+Hello and welcome to my open table server. We will be playing with some slightly modified [5e D&D rules](https://media.wizards.com/2018/dnd/downloads/DnD_BasicRules_2018.pdf). Here are the basic rules for both the server in general as well as for playing with others.
 
 Server Rules:
 - Be kind and respectful - we are here to have fun. It is ok if the stories take unexpected, or even negative turns

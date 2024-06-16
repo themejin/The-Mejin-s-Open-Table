@@ -1,3 +1,8 @@
+---
+draft: false
+title: Tips to Get the Most Out of this Game
+---
+
 The open table /  west marches  format is a bit different from what we think of as the traditional Dungeons and Dragons campaign. This format is much more player driven and player centric. This can feel more like a world your characters inhabit instead of a book your characters star in. With that in mind here are some tips to get the most out of this game
 
  - Give your character a medium term goal and a couple short term goals to pursue

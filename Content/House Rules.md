@@ -1,6 +1,6 @@
 Outside of character creation I am using a few house rules to fit the style of play a bit better. 
 
-## Experience
+## Experience and Leveling
 Experience is awarded via gold put away toward a long term goal at a rate of 1 gold to 1 exp. The goal should be worth around 100,000 gold. Some examples include:
 - Build a small village
 - Set up a personal castle

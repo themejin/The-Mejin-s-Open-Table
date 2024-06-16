@@ -1,4 +1,4 @@
-The open table /  west marches  format is a bit different from what we think of as the traditional Dungeons and Dragons campaign. This format is much more player driven and player centric. This will feel more like a world your characters inhabit instead of a book your characters star in. With that in mind here are some tips to get the most out of this game
+The open table /  west marches  format is a bit different from what we think of as the traditional Dungeons and Dragons campaign. This format is much more player driven and player centric. This can feel more like a world your characters inhabit instead of a book your characters star in. With that in mind here are some tips to get the most out of this game
 
  - Give your character a medium term goal and a couple short term goals to pursue
 	 - Having these goals allows for quests to be created in the pursuit of those goals. If you need to, as an example, slay a dragon to create a particular magic item you can reach out to other players to see who would want to join you in that hunt and an adventure can be built around it.

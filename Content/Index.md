@@ -12,7 +12,16 @@ Server Rules:
 - Experience is awarded via gold put away toward a long term goal at a rate of 1 gold to 1 exp. The goal should be worth around 100,000 gold (build a small village, set up a personal castle, starting funds for a revolution/small war etc.)
 - Characters retire at level 12, at which point they achieve their goal, leaving a permanent mark on the world.
 - In-game time catches up to out-of-game time at the end of each adventure.  This means characters will be out of commission for the same length of time as the adventure. So if an adventure takes 2 weeks the characters involved are out of commission for 2 real weeks. However this means that downtime is also captured in real time.
-- When you initially make a character make 2 others as backups
-- Have a backup level 1 character ready to go at any time just in case your current character falls.
+- When you initially make a character I suggest making 2 others as backups
+- I recommend having a backup level 1 character ready to go at any time just in case your current character falls.
 - Player vs Player in any form requires consent from both players
-- The starting town is a safe haven. Very little of interest happens here outside of the sharing of rumors and some shopping.
+- The starting town of [[Flusstadt]] is a safe haven. Very little of interest happens here outside of the sharing of rumors and some shopping.
+- Unless another arrangement is made, gold earned will be split into a number of share equal to the total party level, with each player getting a number of shares equal to their level. 
+
+Here re some links to pages with further information:
+- [[Rules for Character Creation]]
+- [[House Rules]]
+- [[Tips to Get the Most Out of this Game]]
+- [[Lore of the Local Peoples]]
+- [[Region Map]]
+- [[Factions]]

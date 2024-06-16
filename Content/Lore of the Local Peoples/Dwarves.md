@@ -1,0 +1,3 @@
+A people without a home. Originally travelers from an unknown world to which they cannot return, many dwarves search mountains and caves in the hope of finding a place to call their own. The dwarves have a strong affinity for the elements, especially fire and earth. Dwarves are long lived, often living to around 250 years old.
+
+![[female-cleric.png]]![[Dwarf Warmage Male 2.png]]![[Dwarven Fighter Male.png]]

@@ -22,6 +22,7 @@ Here re some links to pages with further information:
 - [[Rules for Character Creation]]
 - [[House Rules]]
 - [[Tips to Get the Most Out of this Game]]
+- [[Handy Links]]
 - [[Lore of the Local Peoples]]
 - [[Region Map]]
 - [[Factions]]

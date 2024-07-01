@@ -11,7 +11,7 @@ Further I have adjusted the early experience needed to level to make those level
 | Level | Experience Needed | Level | Experience Needed |
 | ----- | ----------------- | ----- | ----------------- |
 | 1     | 0                 | 7     | 23,000            |
-| 2     | 100               | 8     | 34,000            |
+| 2     | 200               | 8     | 34,000            |
 | 3     | 600               | 9     | 48,000            |
 | 4     | 2,000             | 10    | 64,000            |
 | 5     | 6,000             | 11    | 85,000            |

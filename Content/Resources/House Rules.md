@@ -1,22 +1,22 @@
 Outside of character creation I am using a few house rules to fit the style of play a bit better. 
 
 ## Experience and Leveling
-Experience is awarded via gold put away toward a long term goal at a rate of 1 gold to 1 exp. The goal should be worth around 100,000 gold. Some examples include:
+Experience points (XP) are awarded via gold put away toward a long term goal at a rate of 1 gold to 1 exp. The goal should be worth around 100,000 gold. Some examples include:
 - Build a small village
 - Set up a personal castle
 - Starting funds for a revolution/small war
 - Develop a unique spell
 Further I have adjusted the early experience needed to level to make those levels a bit easier to reach. The progression chart is listed below. 
 
-| Level | Experience Needed | Level | Experience Needed |
-| ----- | ----------------- | ----- | ----------------- |
-| 1     | 0                 | 7     | 23,000            |
-| 2     | 200               | 8     | 34,000            |
-| 3     | 600               | 9     | 48,000            |
-| 4     | 2,000             | 10    | 64,000            |
-| 5     | 6,000             | 11    | 85,000            |
-| 6     | 14,000            | 12    | 100,000           |
-|       |                   |       |                   |
+| Level | XP Needed | Level | XP Needed |
+| ----- | --------- | ----- | --------- |
+| 1     | 0         | 7     | 23,000    |
+| 2     | 200       | 8     | 34,000    |
+| 3     | 600       | 9     | 48,000    |
+| 4     | 2,000     | 10    | 64,000    |
+| 5     | 6,000     | 11    | 85,000    |
+| 6     | 14,000    | 12    | 100,000   |
+|       |           |       |           |
 
 ## Crafting
 I am bringing in the crafting system from "Heliana's Guide to Monster Hunting" which can be found [here](https://drive.google.com/file/d/1yxih44fJhj7vICSmO3goOqRR0Yi7QaWB/view)

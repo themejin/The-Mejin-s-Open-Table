@@ -1,3 +1,3 @@
 Information about kobolds
 
-![[kobold-2.jpg]]![[kobold mage.png]]
+![[public/Images/Races/kobold-2.png]]![[kobold mage.png]]

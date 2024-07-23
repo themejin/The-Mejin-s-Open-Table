@@ -1,3 +1,3 @@
-Believing themselves to be descendants of dragons, or at least cousins, dragonborn have a great respect for both dragons and  
+Often called "The Children of Hajimaru" as they claim lineage from the first dragon. For this reason dragonborn tend to respect for both dragons and [[Kobolds | kobolds]], their cousins. One major break they have culturally with kobolds is that dragonborn view dragons as failed attempts at divinity, and while they are to be respected, they are not meant for worship.,
 
 ![[dragonborn Cleric 3.png]]![[dragonborn fighter.png]]![[maya.png]]

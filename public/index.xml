@@ -6,6 +6,18 @@
       <description>Last 10 notes on Mejin&#039;s Open Table</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Rosaline Verona</title>
+    <link>https://www.mejinsopentable.com/Characters/Major-NPCs/Rosaline-Verona</link>
+    <guid>https://www.mejinsopentable.com/Characters/Major-NPCs/Rosaline-Verona</guid>
+    <description>Matriarch of a merchant family and owner of The Jeweled Windfall, Rosaline Verona, a human female, spends much of her time among the upper crust of Bergstadt ...</description>
+    <pubDate>Sat, 03 Aug 2024 01:47:34 GMT</pubDate>
+  </item><item>
+    <title>Bergstadt</title>
+    <link>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Bergstadt</link>
+    <guid>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Bergstadt</guid>
+    <description>Overview Bergstadt is a city with a booming population and a large class divide. Ask anyone in the city and they would tell you that though they have a king, the city is in fact run by Rosaline Verona.</description>
+    <pubDate>Sat, 03 Aug 2024 01:01:11 GMT</pubDate>
+  </item><item>
     <title>Durable Spell Scroll</title>
     <link>https://www.mejinsopentable.com/Resources/New-Items/Durable-Spell-Scroll</link>
     <guid>https://www.mejinsopentable.com/Resources/New-Items/Durable-Spell-Scroll</guid>
@@ -31,14 +43,14 @@
     <pubDate>Fri, 02 Aug 2024 00:50:04 GMT</pubDate>
   </item><item>
     <title>Ducky Skysong</title>
-    <link>https://www.mejinsopentable.com/Characters/NPCs/Ducky-Skysong</link>
-    <guid>https://www.mejinsopentable.com/Characters/NPCs/Ducky-Skysong</guid>
+    <link>https://www.mejinsopentable.com/Characters/Major-NPCs/Ducky-Skysong</link>
+    <guid>https://www.mejinsopentable.com/Characters/Major-NPCs/Ducky-Skysong</guid>
     <description>The proprietor of Ducky’s Plush Pies. A male aasimar and a friendly fellow. He has golden hair and grey skin. Seems to have some interesting connections.</description>
     <pubDate>Thu, 01 Aug 2024 02:14:32 GMT</pubDate>
   </item><item>
     <title>Katla Swordrunner</title>
-    <link>https://www.mejinsopentable.com/Characters/NPCs/Katla-Swordrunner</link>
-    <guid>https://www.mejinsopentable.com/Characters/NPCs/Katla-Swordrunner</guid>
+    <link>https://www.mejinsopentable.com/Characters/Major-NPCs/Katla-Swordrunner</link>
+    <guid>https://www.mejinsopentable.com/Characters/Major-NPCs/Katla-Swordrunner</guid>
     <description>Owner of Salty Sky Tavern and Inn in Flusstadt. A female dwarf with long red hair and bronze skin. She is gregarious and sports a tattoo of Imogen the Traveler’s Lantern on her forearm.</description>
     <pubDate>Thu, 01 Aug 2024 01:32:11 GMT</pubDate>
   </item><item>
@@ -53,18 +65,6 @@
     <guid>https://www.mejinsopentable.com/Resources/Handy-Links</guid>
     <description>Here are a handful of helpful links When2Meet.com - A great tool for arranging a time for a session Common item and equipment prices Crafting Rules Basic rules ...</description>
     <pubDate>Tue, 18 Jun 2024 00:04:19 GMT</pubDate>
-  </item><item>
-    <title>Orcs</title>
-    <link>https://www.mejinsopentable.com/Lore/Local-Peoples/Orcs</link>
-    <guid>https://www.mejinsopentable.com/Lore/Local-Peoples/Orcs</guid>
-    <description>Pig like in appearance, orcs are often considered both stubborn and loyal. Orcs as a whole are distrustful of magic, believing it lead to the fall of their once great empire, of which there is now only oral tradition.</description>
-    <pubDate>Sun, 16 Jun 2024 21:42:48 GMT</pubDate>
-  </item><item>
-    <title>Kobolds</title>
-    <link>https://www.mejinsopentable.com/Lore/Local-Peoples/Kobolds</link>
-    <guid>https://www.mejinsopentable.com/Lore/Local-Peoples/Kobolds</guid>
-    <description>Kobolds are a dragon like people that often make their home in many caves around the region. Like goblins, most kobolds view gold as related to divinity.</description>
-    <pubDate>Sun, 16 Jun 2024 21:42:48 GMT</pubDate>
   </item>
     </channel>
   </rss>

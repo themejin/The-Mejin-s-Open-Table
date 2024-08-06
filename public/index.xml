@@ -6,6 +6,24 @@
       <description>Last 10 notes on Mejin&#039;s Open Table</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Shafedorf</title>
+    <link>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Shafedorf</link>
+    <guid>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Shafedorf</guid>
+    <description>Overview A herding town that has been growing as of late, which has led to good stone being a scarce resource, and often trades with Flusstadt to get its hands on some ...</description>
+    <pubDate>Tue, 06 Aug 2024 00:54:16 GMT</pubDate>
+  </item><item>
+    <title>Dimal Barport</title>
+    <link>https://www.mejinsopentable.com/Characters/Minor-NPCs/Dimal-Barport</link>
+    <guid>https://www.mejinsopentable.com/Characters/Minor-NPCs/Dimal-Barport</guid>
+    <description>Dimal was an apprentice wizard at the Zweiflus Grand Library. After he had been studying there for some time, Dimal made off with thousands of gold worth of books on magic, killing 5 people in his escape.</description>
+    <pubDate>Mon, 05 Aug 2024 23:57:37 GMT</pubDate>
+  </item><item>
+    <title>Ostwald</title>
+    <link>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Ostwald</link>
+    <guid>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Ostwald</guid>
+    <description>Overview A lumber town in the southern Ausfallen region, Ostwald is known for its high quality wood working, its festivals, and its colorful people. Ostwalds population is largely Beast-Folk, and the city celebrates its fey origins with riddle championships, a culture of flower arrangements, and a tradition of story telling.</description>
+    <pubDate>Mon, 05 Aug 2024 23:37:00 GMT</pubDate>
+  </item><item>
     <title>Sudhafen</title>
     <link>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Sudhafen</link>
     <guid>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Sudhafen</guid>
@@ -47,24 +65,6 @@
     <guid>https://www.mejinsopentable.com/Resources/New-Items/Durable-Spell-Scroll</guid>
     <description>Overview The durable spell scroll is a specialized creation of the Societas Magica Historica - Mage Scholars. Specifically those members in Zweiflus where the art was discovered.</description>
     <pubDate>Fri, 02 Aug 2024 17:57:01 GMT</pubDate>
-  </item><item>
-    <title>Carpendorf</title>
-    <link>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Carpendorf</link>
-    <guid>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Carpendorf</guid>
-    <description>Overview Carpendorf is a quickly growing fishing village. It recently incorporated another small village to combine resources and better trade with Zweiflus with whom Carpendorf has sworn an oath of fealty.</description>
-    <pubDate>Fri, 02 Aug 2024 17:40:20 GMT</pubDate>
-  </item><item>
-    <title>Zweiflus</title>
-    <link>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Zweiflus</link>
-    <guid>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Zweiflus</guid>
-    <description>Overview With the marble pillars of the great library standing proudly in the center of the city, it is little wonder that Zweiflus is considered the center of magical learning in the ...</description>
-    <pubDate>Fri, 02 Aug 2024 12:41:25 GMT</pubDate>
-  </item><item>
-    <title>Server Rules</title>
-    <link>https://www.mejinsopentable.com/Server-Rules</link>
-    <guid>https://www.mejinsopentable.com/Server-Rules</guid>
-    <description> Be kind and respectful - we are here to have fun. It is ok if the stories take unexpected, or even negative turns At any time feel free to ask others to pause the action to discuss what is going on and clear up emotions.</description>
-    <pubDate>Fri, 02 Aug 2024 00:50:04 GMT</pubDate>
   </item>
     </channel>
   </rss>

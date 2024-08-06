@@ -6,6 +6,18 @@
       <description>Last 10 notes on Mejin&#039;s Open Table</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Sudsee</title>
+    <link>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Sudsee</link>
+    <guid>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Sudsee</guid>
+    <description>Overview A notable lake bound fishing and farming village, Sudsee has a lot of trade with Bergstadt. The town itself houses a simple community with a single tavern, an elected mayor, and only enough spears to arm those capable of fighting.</description>
+    <pubDate>Tue, 06 Aug 2024 01:57:25 GMT</pubDate>
+  </item><item>
+    <title>Kleihafen</title>
+    <link>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Kleihafen</link>
+    <guid>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Kleihafen</guid>
+    <description>Overview Known for the Temple of the Five, Kleihafen is a popular pilgrimage spot. The town is also a major port, so goods and people regularly arrive.</description>
+    <pubDate>Tue, 06 Aug 2024 01:47:02 GMT</pubDate>
+  </item><item>
     <title>Shafedorf</title>
     <link>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Shafedorf</link>
     <guid>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Shafedorf</guid>
@@ -53,18 +65,6 @@
     <guid>https://www.mejinsopentable.com/Characters/Major-NPCs/Rosaline-Verona</guid>
     <description>Matriarch of a merchant family and owner of The Jeweled Windfall, Rosaline Verona, a human female, spends much of her time among the upper crust of Bergstadt ...</description>
     <pubDate>Sat, 03 Aug 2024 01:47:34 GMT</pubDate>
-  </item><item>
-    <title>Bergstadt</title>
-    <link>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Bergstadt</link>
-    <guid>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Bergstadt</guid>
-    <description>Overview Bergstadt is a city with a booming population and a large class divide. Ask anyone in the city and they would tell you that though they have a king, the city is in fact run by Rosaline Verona.</description>
-    <pubDate>Sat, 03 Aug 2024 01:01:11 GMT</pubDate>
-  </item><item>
-    <title>Durable Spell Scroll</title>
-    <link>https://www.mejinsopentable.com/Resources/New-Items/Durable-Spell-Scroll</link>
-    <guid>https://www.mejinsopentable.com/Resources/New-Items/Durable-Spell-Scroll</guid>
-    <description>Overview The durable spell scroll is a specialized creation of the Societas Magica Historica - Mage Scholars. Specifically those members in Zweiflus where the art was discovered.</description>
-    <pubDate>Fri, 02 Aug 2024 17:57:01 GMT</pubDate>
   </item>
     </channel>
   </rss>

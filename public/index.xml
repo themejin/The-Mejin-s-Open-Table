@@ -6,6 +6,24 @@
       <description>Last 10 notes on Mejin&#039;s Open Table</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Cadabear</title>
+    <link>https://www.mejinsopentable.com/Lore/Monsters/Cadabear</link>
+    <guid>https://www.mejinsopentable.com/Lore/Monsters/Cadabear</guid>
+    <description> Cadabears are a relatively recently discovered form of undead. The cadabear is more than an undead bear, it is heartier overall and relies on smell and sound rather than sight.</description>
+    <pubDate>Tue, 01 Oct 2024 19:13:53 GMT</pubDate>
+  </item><item>
+    <title>Vulpine Marker</title>
+    <link>https://www.mejinsopentable.com/Resources/New-Items/Vulpine-Marker</link>
+    <guid>https://www.mejinsopentable.com/Resources/New-Items/Vulpine-Marker</guid>
+    <description>Overview A socketable item with 1 charge. A subtle section of a vulpine inkling that it used when tracking its prey. When this item is socketed into a magic item it can spend its charge to cast Hunters Mark as a bonus action.</description>
+    <pubDate>Wed, 18 Sep 2024 01:10:32 GMT</pubDate>
+  </item><item>
+    <title>Vulpine Inkling</title>
+    <link>https://www.mejinsopentable.com/Lore/Monsters/Vulpine-Inkling</link>
+    <guid>https://www.mejinsopentable.com/Lore/Monsters/Vulpine-Inkling</guid>
+    <description> Vulpine inklings appear as a fox made out of living ink and able to manipulate their form with between that of a puddle and that of a fox. While they do hunt for food, they often hide from creatures larger than themselves, but will fight if cornered.</description>
+    <pubDate>Tue, 17 Sep 2024 14:09:55 GMT</pubDate>
+  </item><item>
     <title>Sudsee</title>
     <link>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Sudsee</link>
     <guid>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Sudsee</guid>
@@ -47,24 +65,6 @@
     <guid>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Mauerinhugeln</guid>
     <description>Overview Beginning its life as a castle built to house and train the fledgling Watchmen, Mauerinhugeln gathered tradesmen to itself to support its growth ...</description>
     <pubDate>Mon, 05 Aug 2024 16:24:45 GMT</pubDate>
-  </item><item>
-    <title>Uzel the Soothing Lion</title>
-    <link>https://www.mejinsopentable.com/Characters/Major-NPCs/Uzel-the-Soothing-Lion</link>
-    <guid>https://www.mejinsopentable.com/Characters/Major-NPCs/Uzel-the-Soothing-Lion</guid>
-    <description>King of Ummaursel, Uzel is a patron of the arts, encouraging continued growth in crafting in his city and the surrounding areas. Uzel is distrusting of the arcane and maintains the ban on it his father put in place in areas under his control.</description>
-    <pubDate>Mon, 05 Aug 2024 13:48:07 GMT</pubDate>
-  </item><item>
-    <title>Ummaursel</title>
-    <link>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Ummaursel</link>
-    <guid>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Ummaursel</guid>
-    <description>Overview Ummaursel is a well fortified city, taking up most of the island on which it finds itself. The origin and home of United Crafters, the city flourishes with high quality goods and services.</description>
-    <pubDate>Sun, 04 Aug 2024 17:21:58 GMT</pubDate>
-  </item><item>
-    <title>Rosaline Verona</title>
-    <link>https://www.mejinsopentable.com/Characters/Major-NPCs/Rosaline-Verona</link>
-    <guid>https://www.mejinsopentable.com/Characters/Major-NPCs/Rosaline-Verona</guid>
-    <description>Matriarch of a merchant family and owner of The Jeweled Windfall, Rosaline Verona, a human female, spends much of her time among the upper crust of Bergstadt ...</description>
-    <pubDate>Sat, 03 Aug 2024 01:47:34 GMT</pubDate>
   </item>
     </channel>
   </rss>

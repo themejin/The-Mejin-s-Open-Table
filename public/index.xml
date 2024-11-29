@@ -6,6 +6,12 @@
       <description>Last 10 notes on Mejin&#039;s Open Table</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Languages</title>
+    <link>https://www.mejinsopentable.com/Resources/Languages</link>
+    <guid>https://www.mejinsopentable.com/Resources/Languages</guid>
+    <description>Language is a core part of how we experience the world and in Ausfallen it is no different. Below you will find a list of languages both common and uncommon and who is most likely to be found speaking them.</description>
+    <pubDate>Thu, 28 Nov 2024 02:42:44 GMT</pubDate>
+  </item><item>
     <title>Boktatchi Nokozan</title>
     <link>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Boktatchi-Nokozan</link>
     <guid>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Boktatchi-Nokozan</guid>
@@ -59,12 +65,6 @@
     <guid>https://www.mejinsopentable.com/Characters/Minor-NPCs/Dimal-Barport</guid>
     <description>Dimal was an apprentice wizard at the Zweiflus Grand Library. After he had been studying there for some time, Dimal made off with thousands of gold worth of books on magic, killing 5 people in his escape.</description>
     <pubDate>Mon, 05 Aug 2024 23:57:37 GMT</pubDate>
-  </item><item>
-    <title>Ostwald</title>
-    <link>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Ostwald</link>
-    <guid>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Ostwald</guid>
-    <description>Overview A lumber town in the southern Ausfallen region, Ostwald is known for its high quality wood working, its festivals, and its colorful people. Ostwalds population is largely Beast-Folk, and the city celebrates its fey origins with riddle championships, a culture of flower arrangements, and a tradition of story telling.</description>
-    <pubDate>Mon, 05 Aug 2024 23:37:00 GMT</pubDate>
   </item>
     </channel>
   </rss>

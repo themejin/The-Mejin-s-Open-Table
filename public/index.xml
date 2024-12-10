@@ -6,9 +6,15 @@
       <description>Last 10 notes on Mejin&#039;s Open Table</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Available Hirelings</title>
+    <link>https://www.mejinsopentable.com/Characters/Minor-NPCs/Hirelings/</link>
+    <guid>https://www.mejinsopentable.com/Characters/Minor-NPCs/Hirelings/</guid>
+    <description> About Hirelings Hirelings are NPCs who are available to aid players on their adventures at a cost. If you grow attached to a hireling they can be converted into a backup PC.</description>
+    <pubDate>Tue, 10 Dec 2024 17:54:23 GMT</pubDate>
+  </item><item>
     <title>Languages</title>
-    <link>https://www.mejinsopentable.com/Resources/Languages</link>
-    <guid>https://www.mejinsopentable.com/Resources/Languages</guid>
+    <link>https://www.mejinsopentable.com/Lore/Languages</link>
+    <guid>https://www.mejinsopentable.com/Lore/Languages</guid>
     <description>Language is a core part of how we experience the world and in Ausfallen it is no different. Below you will find a list of languages both common and uncommon and who is most likely to be found speaking them.</description>
     <pubDate>Thu, 28 Nov 2024 02:42:44 GMT</pubDate>
   </item><item>
@@ -59,12 +65,6 @@
     <guid>https://www.mejinsopentable.com/Lore/Locations/Cities-and-Towns/Shafedorf</guid>
     <description>Overview A herding town that has been growing as of late, which has led to good stone being a scarce resource, and often trades with Flusstadt to get its hands on some ...</description>
     <pubDate>Tue, 06 Aug 2024 00:54:16 GMT</pubDate>
-  </item><item>
-    <title>Dimal Barport</title>
-    <link>https://www.mejinsopentable.com/Characters/Minor-NPCs/Dimal-Barport</link>
-    <guid>https://www.mejinsopentable.com/Characters/Minor-NPCs/Dimal-Barport</guid>
-    <description>Dimal was an apprentice wizard at the Zweiflus Grand Library. After he had been studying there for some time, Dimal made off with thousands of gold worth of books on magic, killing 5 people in his escape.</description>
-    <pubDate>Mon, 05 Aug 2024 23:57:37 GMT</pubDate>
   </item>
     </channel>
   </rss>

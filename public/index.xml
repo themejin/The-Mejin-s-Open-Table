@@ -12,6 +12,12 @@
     <description>Overview A socketable item with 1 charge derived from a Somnific Pony. Once per day, when you make an attack you can spend the charge. When you do, your target makes a dc 13 con save or is stunned for one round.</description>
     <pubDate>Sat, 14 Dec 2024 01:08:46 GMT</pubDate>
   </item><item>
+    <title>Wand of Magic Missiles</title>
+    <link>https://www.mejinsopentable.com/Characters/Player-Characters/Fredrick-the-Second/Fredricks-Crafted-Items/Wand-of-Magic-Missiles-121424</link>
+    <guid>https://www.mejinsopentable.com/Characters/Player-Characters/Fredrick-the-Second/Fredricks-Crafted-Items/Wand-of-Magic-Missiles-121424</guid>
+    <description>Base Description This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the magic missile spell from it.</description>
+    <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Somnific Pony</title>
     <link>https://www.mejinsopentable.com/Lore/Monsters/Somnific-Pony</link>
     <guid>https://www.mejinsopentable.com/Lore/Monsters/Somnific-Pony</guid>
@@ -59,12 +65,6 @@
     <guid>https://www.mejinsopentable.com/Resources/New-Items/Vulpine-Marker</guid>
     <description>Overview A socketable item with 1 charge. A subtle section of a vulpine inkling that it used when tracking its prey. When this item is socketed into a magic item it can spend its charge to cast Hunters Mark as a bonus action.</description>
     <pubDate>Wed, 18 Sep 2024 01:10:32 GMT</pubDate>
-  </item><item>
-    <title>Vulpine Inkling</title>
-    <link>https://www.mejinsopentable.com/Lore/Monsters/Vulpine-Inkling</link>
-    <guid>https://www.mejinsopentable.com/Lore/Monsters/Vulpine-Inkling</guid>
-    <description> Vulpine inklings appear as a fox made out of living ink and able to manipulate their form with between that of a puddle and that of a fox. While they do hunt for food, they often hide from creatures larger than themselves, but will fight if cornered.</description>
-    <pubDate>Tue, 17 Sep 2024 14:09:55 GMT</pubDate>
   </item>
     </channel>
   </rss>
